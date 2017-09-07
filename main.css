@@ -170,3 +170,22 @@ h3, h4, h5 {
   }
 
 }
+
+@media (max-height: 560px) {
+  .screensize {
+    font-size: 8px;
+  }
+
+  .spacediv1 {
+    padding-bottom: 270px;
+  }
+
+  .spacediv {
+    padding-bottom: 5px;
+  }
+
+  .mobilecolor {
+    color: black;
+  }
+
+}
