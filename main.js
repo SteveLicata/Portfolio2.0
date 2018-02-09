@@ -11,8 +11,8 @@ window.onload = function(){
     sr.reveal('.toplinks');
 
     // Scroll Reveal Attribution:
-  // https://github.com/jlmakes/scrollreveal
-  // https://scrollrevealjs.org/
+    // https://github.com/jlmakes/scrollreveal
+    // https://scrollrevealjs.org/
 
 
 // end window.onload
