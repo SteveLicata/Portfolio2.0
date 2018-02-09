@@ -138,6 +138,11 @@ h3, h4, h5 {
   left: 50%;
 }
 
+.mystorysummary {
+  font-size: 14px;
+  font-style: italic;
+}
+
 .mystorytext {
   font-size: 13px;
 }
